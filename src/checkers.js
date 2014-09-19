@@ -12,5 +12,5 @@ var resetBoard = function () {
     ['red', ' X ', 'red', ' X ', 'red', ' X ', 'red', ' X ']
   ];
 
-  currentPlayer = 'wht'
+  currentPlayer = 'wht';
 };

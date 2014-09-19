@@ -8,7 +8,7 @@ var charToNum = {
   f: 5,
   g: 6,
   h: 7
-}
+};
 
 var displayBoard = function () {
   var column = [0, 1, 2, 3, 4, 5, 6, 7];
